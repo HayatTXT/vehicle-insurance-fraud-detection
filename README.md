@@ -55,14 +55,8 @@ Deploy the XGBoost model as a claim-flagging system feeding a human review queue
 
 ```
 ├── fraud_oracle.csv                # dataset
-├── notebook.ipynb                  # full analysis and modeling
+├── Fraud Detection.ipynb                  # full analysis and modeling
 ├── Vehicle_Insurance_Fraud_Detection_Report.docx   # written project report
 └── README.md
 ```
 
-## Future Improvements
-
-- Hyperparameter tuning (GridSearch/RandomizedSearch)
-- Explore additional models (CatBoost, LightGBM, ensembles)
-- Feature importance-based feature selection
-- Cross-validation for more robust performance estimates
